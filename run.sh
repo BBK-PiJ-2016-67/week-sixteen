@@ -1,2 +1,2 @@
 javac *.java
-java org.junit.runner.JUnitCore FileManagerTest
+# java org.junit.runner.JUnitCore LsTest
